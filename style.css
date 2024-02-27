@@ -44,7 +44,9 @@ nav{
 header{
     width: 100%;
     height: 60vh;
-    background-image: url(./img/Nature_top.jpg) ;
+    background-image: url(./img/Nature_top.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
